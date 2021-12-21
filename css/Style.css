@@ -1,0 +1,55 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+    font-size: 1.2rem;
+    line-height: 1.2em;
+    margin: 0;
+}
+.container{
+    text-align: center;
+}
+
+.container-img{
+    background: rgb(216, 216, 216);
+    text-align: center;
+    border-radius: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.cabecera{
+    background: #333;
+    color: white;
+    width: 85%;
+    max-width: 900px;
+    margin: 0 auto;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+    
+h1{
+    line-height: 1.2em;
+    text-align: center;
+}
+
+.main{
+    width: 85%;
+    max-width: 900px;
+    margin: 0 auto;
+    margin-top:210px;
+}
+
+p{
+    margin-bottom: 1.6em;
+    text-align: center;
+}
+
+.img-abuela{
+    width: 25%;
+}
+    
